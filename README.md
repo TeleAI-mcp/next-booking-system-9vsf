@@ -1,2 +1,3 @@
-# next-booking-system-9vsf
+# Next Booking System 9Vsf
+
 A repository to test GitHub automation for issue management.
